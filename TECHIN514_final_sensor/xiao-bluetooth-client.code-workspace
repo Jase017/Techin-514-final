@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../xiao-bluetooth-client"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "514final sensor device",
+			"path": "../../Documents/PlatformIO/Projects/514final sensor device"
+		}
+	]
+}

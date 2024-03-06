@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../xiao-bluetooth-server"
+		},
+		{
+			"name": "xiao-bluetooth-client",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
